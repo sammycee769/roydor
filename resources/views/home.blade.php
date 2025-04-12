@@ -1,0 +1,2 @@
+<x-navbar/>
+<x-hero/>
